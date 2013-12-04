@@ -292,32 +292,4 @@ public class FtpClientUtils {
 		this.port = port;
 	}
 
-	/**
-	 * 用于ftp传输的封装的文件
-	 * 
-	 * @author gefangshuai
-	 * @email gefangshuai@163.com
-	 * @createDate 2013年11月13日 下午3:09:15
-	 */
-	class FileForFTP {
-		private String filePath;
-		private FTPFile ftpFile;
-
-		public String getFilePath() {
-			return filePath;
-		}
-
-		public FTPFile getFtpFile() {
-			return ftpFile;
-		}
-
-		public void setFilePath(String filePath) {
-			this.filePath = filePath;
-		}
-
-		public void setFtpFile(FTPFile ftpFile) {
-			this.ftpFile = ftpFile;
-		}
-
-	}
 }
