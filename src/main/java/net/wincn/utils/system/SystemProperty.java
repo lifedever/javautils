@@ -1,4 +1,4 @@
-package net.wincn.utils;
+package net.wincn.utils.system;
 
 public class SystemProperty {
 

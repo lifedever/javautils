@@ -1,4 +1,4 @@
-package net.wincn.utils;
+package net.wincn.utils.string;
 
 import java.io.File;
 import java.util.regex.Matcher;

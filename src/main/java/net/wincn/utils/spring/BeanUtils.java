@@ -1,4 +1,4 @@
-package net.wincn.utils;
+package net.wincn.utils.spring;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

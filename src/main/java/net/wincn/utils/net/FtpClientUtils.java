@@ -1,4 +1,4 @@
-package net.wincn.utils;
+package net.wincn.utils.net;
 
 import java.io.File;
 import java.io.FileOutputStream;

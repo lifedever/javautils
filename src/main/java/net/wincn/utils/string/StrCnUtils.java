@@ -1,4 +1,4 @@
-package net.wincn.utils;
+package net.wincn.utils.string;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Collections;

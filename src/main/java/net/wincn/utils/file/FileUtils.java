@@ -1,4 +1,4 @@
-package net.wincn.utils;
+package net.wincn.utils.file;
 
 import java.io.File;
 import java.io.FileFilter;
